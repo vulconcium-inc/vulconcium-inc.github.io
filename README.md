@@ -1,4 +1,4 @@
-# [Vulconcium inc.](https://redinstealth.github.io/Vulconcium-inc./)
+# [Vulconcium inc.](https://vulconcium-inc.github.io/)
 Repository of the all Vulconcium's/Instealth's projects, listing every Pack & Maps made for the Java and Bedrock Edition.
 
 ![Banner](asset/images/banner.jpg)
