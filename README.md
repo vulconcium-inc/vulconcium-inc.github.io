@@ -8,10 +8,9 @@ Repository of the all Vulconcium's/Instealth's projects, listing every Pack & Ma
 
 Most recent Updates to Packs or the Website
 
-**7/17/2022**
+**8/16/2022**
 
-- Website Up and Running
-- Changed Icons
+- Edited HTML to appear better on Discord
 
 
 ## Featured
