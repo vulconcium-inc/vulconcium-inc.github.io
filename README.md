@@ -10,6 +10,10 @@ Most recent Updates to Packs or the Website
 
 **8/16/2022**
 
+- Updated overall Graphics for a later mod!
+
+**8/16/2022**
+
 - Edited HTML to appear better on Discord
 
 
