@@ -34,7 +34,16 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .icons { width: 15%; }
  .wsite-logo a { color: #ffffff; }
  .wsite-logo img { max-height: 70px; }
- #wsite-title { font-family: "Lora"; font-size: 1.85em; font-style: italic; }
+ #wsite-title { font-family: "Kornucopia"; font-size: 70px; font-style: italic; }
+@font-face {
+    font-family: 'Kornucopia';
+    src: url('../fonts/Kornucopia.eot');
+    src: url('../fonts/Kornucopia.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Kornucopia.woff2') format('woff2'),
+        url('../fonts/Kornucopia.woff') format('woff'),
+        url('../fonts/Kornucopia.ttf') format('truetype'),
+        url('../fonts/Kornucopia.svg#Kornucopia') format('svg');
+}
  .icons { text-align: right; }
  .icons .wsite-search-input { display: none; }
  .wsite-search-button { display: inline-block; width: 20px; height: 20px; background: transparent url(theme/images/dark-search.png) no-repeat center center; background-size: contain; }
