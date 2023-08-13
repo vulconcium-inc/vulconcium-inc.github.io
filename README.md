@@ -1,12 +1,17 @@
 # [Vulconcium inc.](https://vulconcium-inc.github.io/)
-Repository of the all Vulconcium's/Instealth's projects, listing every Pack & Maps made for the Java and Bedrock Edition.
+Repository of the all Vulconcium's/Instealth's projects. Listing every Pack & More made for Java and Bedrock Edition.
 
-![Banner](images/featured/banner.jpg)
+![Banner](images/featured/banner.png)
 
 
 ## Updates
 
 Most recent Updates to Packs or the Website
+
+**8/13/2023**
+
+- Bug fixes
+- Small info Changes
 
 **8/12/2023**
 
@@ -25,11 +30,11 @@ Most recent Updates to Packs or the Website
 
 ![Youtube](images/featured/youtube_head.png) ![Twitch](images/featured/twitch_head.png) ![Discord](images/featured/discord_head.png)
 
-- **Youtube** | [Dr. Instealth](https://www.youtube.com/channel/UCr5UyVoUkEz5xjO3sGEfhzw)
+- **Youtube** | [Mr. Vulconcium](https://www.youtube.com/@mrvulconcium/)
 
-- **Twitch** | [TheDrInstealth](https://www.twitch.tv/thedrinstealth)
+- **Twitch** | [MrVulconcium](https://www.twitch.tv/mrvulconcium)
 
-- **Discord** | Vulconcium#0393
+- **Discord** | Vulconcium#0000
 
 ---
 
